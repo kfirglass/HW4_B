@@ -54,7 +54,9 @@ QPushButton#secondaryButton:hover {
 QToolBar {
     spacing: 6px;
     border: none;
-    background: transparent;
+    background-color: #f3f6fb;
+    border-radius: 8px;
+    padding: 4px;
 }
 
 QToolButton {
